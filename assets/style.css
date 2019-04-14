@@ -141,18 +141,20 @@ html{
 }
 
 .color-1{
-    color: #218eff;
+    color: #2e3193;
 }
 
 .color-2{
     color: #333;
 }
-
+.fas {
+    font-size: 16px;
+}
 .color-3{
     color: #333;
 }
 .subscribe-btn-color-active h5{
-    color: #218eff;
+    color: #2e3193;
 }
 h5{
     color: #333;
@@ -181,7 +183,7 @@ h5{
 
 .subscribe-email-label::before,
 .subscribe-email-label::after{
-    border: 1px solid #218eff;
+    border: 1px solid #2e3193;
 }
 .subscribe-btn::after,
 .subscribe-btn::before{
@@ -359,6 +361,7 @@ h5{
     transition: 1s;
     top: -200px;
     opacity: 0;
+    font-size: 40px;
 }
 .main-paragraph-active{
     top: 0;
@@ -508,7 +511,7 @@ h5{
 }
 .switch-button-1:hover i{
     animation: switch 0.3s linear;
-    color: #218eff;
+    color: #2e3193;
 }
 @keyframes switch{
     0%{opacity: 1;top:0;}
@@ -870,7 +873,7 @@ h5{
 .about-head-container{
     position: relative;
     top: 0;
-    width: 280px;
+    width: 320px;
     margin: 0 auto;
     padding: 10px;
     margin-bottom: 40px;

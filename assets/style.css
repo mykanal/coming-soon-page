@@ -346,7 +346,7 @@ h5{
     transition: 0.5s;
 }
 .logo img{
-    width: 250px;
+    width: 280px;
     height: auto;
 }
 
@@ -1025,7 +1025,7 @@ h5{
 
 @media only screen and (max-width : 991px){
     .main-paragraph{
-        font-size: 62px;
+        font-size: 39px;
     }
     .soc-wrap{
         margin: 5px 5px;
@@ -1069,7 +1069,7 @@ h5{
 }
 @media only screen and (max-width: 414px){
     .logo img{
-        width: 100px;
+        width: 220px;
     }
     .main-paragraph{
         font-size: 32px;
